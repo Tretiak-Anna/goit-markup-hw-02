@@ -1,6 +1,36 @@
-.body {
-    color: #5cca25;
+body {
+    color:  #434455;
+    background-color: white;
+    font-size: 16px;
 }
-.h2 {
-    color: #422e31;
+.main-text {
+    background-color: #2E2F42;
+}
+h1 {
+    color: #FFFFFF;
+}
+h2, h3 {
+    color: #2E2F42;
+}
+h2 {
+    font-size: 36px;
+}
+h3 {
+    font-size: 24px;
+}
+button {
+    background-color:#4D5AE5;
+    color: #FFFFFF;
+    padding: 6px, 32px, 16px, 32px;
+}
+.team {
+    background-color: #F4F4FD;
+}
+.portfolio {
+    color: #E7E9FC
+}
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD
+    ;
 }
