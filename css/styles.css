@@ -49,11 +49,11 @@ body {
   .nav-list {
     font-weight: 500;
   }
-  .nav-link .nav-link-studio{
+  .nav-link {
     color: #2e2f42;
   }
-  .nav-link-studio:hover,
-  .nav-linkt:focus {
+  .nav-link:hover,
+  .nav-link:focus {
     color: #404BBF;
   }
   .main-text {
