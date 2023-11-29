@@ -25,8 +25,17 @@ a {
 .link {
     font-style: normal;
 }
+.link:hover,
+.link:focus {
+    color: #404BBF
+    ;
+}
 .nav-list {
     font-weight: 500;
+}
+.nav-link:hover,
+.nav-linkt:focus {
+    color: #404BBF;
 }
 .main-text {
     background-color: #2E2F42;
@@ -57,6 +66,11 @@ button {
     background-color:#4D5AE5;
     color: #FFFFFF;
     padding: 6px, 32px, 16px, 32px;
+    cursor: pointer;
+}
+button:hover,
+button:focus {
+    background-color: #404BBF;
 }
 .team {
     background-color: #F4F4FD;
